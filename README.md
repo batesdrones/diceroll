@@ -1,2 +1,2 @@
 # diceroll
-Repo for dice datasets and analytics
+Repo for dice detecion using OpenCV. Can update with datasets and analytics of results. 
